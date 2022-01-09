@@ -7,3 +7,5 @@ to fit what I envisioned of a calculator. There is still a lot of small things i
 code that don't make sense as this is my very first Tkinter project, but I am hoping
 to continue learning and improve upon this code in the future. However for now, this 
 is the final code.
+
+Side Note: This calculator only works by clicking and not typing.
